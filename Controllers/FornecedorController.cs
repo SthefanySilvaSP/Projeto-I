@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Projeto_I.Controllers
 {
-    public class FornecedorController
+    public class FornecedorController : ControllerBase
     {
         
     }

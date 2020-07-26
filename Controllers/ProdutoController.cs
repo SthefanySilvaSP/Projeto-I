@@ -9,7 +9,7 @@ namespace Projeto_I.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class ProdutoController
+    public class ProdutoController:ControllerBase
     {
         
     }
